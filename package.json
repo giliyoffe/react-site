@@ -2,7 +2,7 @@
   "name": "tri",
   "version": "0.1.0",
   "private": true,
- "homepage" : "http://giliyoffe.github.io/react-site",
+ "homepage" : "http://giliyoffe.github.io/react-site/build",
   "dependencies": {
     "autoprefixer": "7.1.6",
     "babel-core": "6.26.0",
