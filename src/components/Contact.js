@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './Contact.css';
-//home contacts menu header sticky-footer about search
+
 class Contacts extends Component {
   render() {
     return (

@@ -3,7 +3,7 @@ import Header from './Header.js';
 import Footer from './Footer.js';
 
 //import './App.css';
-//home contacts menu header sticky-footer about search
+
 class Home extends Component {
   render() {
     return (

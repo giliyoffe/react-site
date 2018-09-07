@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './../App.css';
-//home contact menu header sticky-footer about search
+
 class Footer extends Component {
   render() {
     return (
