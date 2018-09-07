@@ -21,10 +21,11 @@
 .App-intro {
   font-size: large;
 }
+
 /* TODO: doesn't work */
-/* .Menu {
-  text-align: left;
-} */
+.Menu {
+  text-align: left !important;
+}
 
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
