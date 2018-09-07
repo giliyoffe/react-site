@@ -5,7 +5,7 @@ import './css/menu.css';
 class Menu extends Component {
   render() {
     return (
-      <div id='main'>
+      <div>
         <ul>
            <li>
              <Link to='/'>Home</Link>
