@@ -16,16 +16,16 @@ class App extends Component {
   render() {
     return (
       <Router>
-        <div className="App">
+        <div className='App'>
 
-          <Menu className="Menu"/>
+          <Menu className='Menu' id='menu'/>
 
           <Switch>
-            <Route path="/" exact component={Home} />
-            <Route path="/contact" component={Contact} />
-            <Route path="/search" component={Search} />
-            <Route path="/about" component={About}/>
-            <Redirect to="/" />
+            <Route path='/' exact component={Home} />
+            <Route path='/contact' component={Contact} />
+            <Route path='/search' component={Search} />
+            <Route path='/about' component={About}/>
+            <Redirect to='/' />
           </Switch>
         </div>
       </Router>

@@ -6,7 +6,7 @@ class Menu extends Component {
   render() {
     return (
       <div>
-        <ul id='menuUL'>
+        <ul>{/* id='menuUL' */}
            <li>
              <Link to='/'>Home</Link>
            </li>
