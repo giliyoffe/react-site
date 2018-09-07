@@ -18,7 +18,7 @@ class App extends Component {
       <Router>
         <div className='App'>
 
-          <Menu className='Menu' id='menu'/>
+          <Menu className='Menu'/>
 
           <Switch>
             <Route path='/' exact component={Home} />
