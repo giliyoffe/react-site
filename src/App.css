@@ -19,9 +19,10 @@
   font-size: large;
 }
 
-.Menu {
+/* .menu {
   text-align: left;
-}
+  list-style-type: none;
+} */
 
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
