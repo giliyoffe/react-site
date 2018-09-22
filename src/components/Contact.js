@@ -39,8 +39,8 @@ class Contacts extends Component {
             <option value="not_satisfied">Not Satisfied</option>
           </select>
           <label className="label">
-            Agree to the terms and conditions
             <input type="checkbox" name="conditions" value="Agree" required/>
+            Agree to the terms and conditions
           </label>
           <button>Send</button>
         </form>
